@@ -26,4 +26,4 @@
 # A: Cloning means that you are making a copy of the repository, while pulling means you are getting any new changes that have been made to the repository
 
 # 10) Tell me a fun fact!
-# A: I have a little experience working with Python to do calculations, but I have never used the terminal before this class!
+# A: I have a little experience working with Python to do calculations, but I have never used the terminal before I started this class
